@@ -19,14 +19,14 @@ Every figure in it comes from a published source. Nothing is sample data.
 
 ## What it does
 
-**Six linked views, country down to single building.** Nederland to Provincie
-Utrecht to Gemeente Utrecht to the resilience score, the wijk ranking, and the
-3D twin. Each level answers the question the one above it raises.
+**Six linked views, country down to single building.** Nederland → Provincie
+Utrecht → Gemeente Utrecht → resilience score → wijk ranking → the 3D twin.
+Each level answers the question the one above it raises.
 
 **One composite score, honestly built.**
 
 ```
-resilience score = 100 x sum(weight x adjusted) / sum(weight)
+resilience score = 100 × Σ(weight × adjusted) / Σ(weight)
 ```
 
 Every indicator is normalised across the 111 buurten and flipped where a higher
@@ -64,6 +64,19 @@ road network, OpenStreetMap and Gemeente Utrecht's tree register.
 
 ---
 
+## Screenshots
+
+Four views from the prototype: the wijk ranking, the composite resilience score
+across all 111 buurten, the indicator maps for Gemeente Utrecht, and the 3D
+digital twin with its environment layers.
+
+| | |
+|---|---|
+| ![](assets/s7_a_twin.jpg) | ![](assets/s7_b_resilience.jpg) |
+| ![](assets/s7_c_wijk.jpg) | ![](assets/s7_d_environment.jpg) |
+
+---
+
 ## Source code
 
 The full project, including the data pipeline, all build scripts and the written
@@ -72,5 +85,5 @@ Veiligheidsregio Utrecht. Happy to walk through it on request.
 
 ---
 
-Built by **Ishraque Bin Khalil** during an internship at Veiligheidsregio
-Utrecht, June to September 2026.
+Built by **Ishraque** during an internship at Veiligheidsregio Utrecht,
+June to September 2026.
