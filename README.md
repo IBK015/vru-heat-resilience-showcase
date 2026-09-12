@@ -54,20 +54,21 @@ reshuffles completely depending on which input you rank by.
 
 ## Buurt — the 3D digital twin
 
-![Terwijde-Oost in 3D, buildings coloured by local heat exposure](assets/04_buurt_3d_terwijde.png)
+![Zambesidreef en omgeving in 3D, buildings coloured by local heat exposure](assets/04_buurt_3d_zambesidreef.png)
 
-Terwijde-Oost at building level. Every building stands at its real BAG height
-and carries the heat exposure measured over it, from green-buffered through to
-high. The dots are sports facilities, community centres and green or cool refuge
-spaces within walking distance. The buurten around it keep their indicator
-colour, so the pilot is read in context rather than on its own.
+Zambesidreef en omgeving at building level, the wijk that tops the ranking above
+at 100.0. Every building stands at its real BAG height and carries the heat
+exposure measured over it, from green-buffered through to high. The dots are
+sports facilities, community centres and green or cool refuge spaces within
+walking distance. The buurten around it keep their indicator colour, so the
+pilot is read in context rather than on its own.
 
-![Zambesidreef en omgeving with the live KNMI temperature layer](assets/05_buurt_3d_zambesidreef_knmi.png)
+![Terwijde-Oost with the live KNMI temperature layer](assets/05_buurt_3d_terwijde_knmi.png)
 
-The second pilot, Zambesidreef en omgeving, under the live KNMI air temperature
-layer. Every panel on the right is independent: overview, indicator, legend,
-views, layers, satellite, KNMI and details can each be opened, stacked or tucked
-away, so the map keeps the screen.
+The other pilot, Terwijde-Oost, under the live KNMI air temperature layer. Every
+panel on the right is independent: overview, indicator, legend, views, layers,
+satellite, KNMI and details can each be opened, stacked or tucked away, so the
+map keeps the screen.
 
 ---
 
